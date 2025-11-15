@@ -24,6 +24,12 @@ header h1 {
     margin-bottom: 1rem;
 }
 
+/* Navigation Styles */
+nav {
+    background-color: #27ae60;
+    padding: 1rem 0;
+}
+
 nav ul {
     list-style: none;
     display: flex;
